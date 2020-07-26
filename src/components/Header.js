@@ -22,7 +22,7 @@ export default class Header extends Component {
          <div className="row banner">
             <div className="banner-text">
                <h2 style={{fontWeight: '900',boxShadow: "2px 2px #F5F5DC",marginBottom: "0px", borderRadius: "25px 25px 25px 25px",padding:"15px 10px 10px 10px", backgroundColor:'#F06000',color:'#fff', fontFamily:'sans-serif '}} className="responsive-headline"> Welcome to {resumeData.name}.</h2>
-               <h3 style={{boxShadow: "2px 2px #F5F5DC",marginBottom: "120px", borderRadius: "0px 0px 25px 25px",padding:"10px", backgroundColor:'#F06000',color:'#fff', fontFamily:'sans-serif '}}> {resumeData.role}.{resumeData.roleDescription}</h3>
+               <h3 style={{boxShadow: "2px 2px #F5F5DC",marginBottom: "200px", borderRadius: "0px 0px 25px 25px",padding:"10px", backgroundColor:'#F06000',color:'#fff', fontFamily:'sans-serif '}}> {resumeData.role}.{resumeData.roleDescription}</h3>
                <hr/>
                <ul className="social">
                   {
