@@ -13,11 +13,11 @@ let resumeData = {
       url: "https://www.linkedin.com/in/mehulndoshi/",
       className: "fa fa-linkedin",
     },
-    {
-      name: "github",
-      url: "https://github.com/Amitabh-K",
-      className: "fa fa-github",
-    },
+    // {
+    //   name: "github",
+    //   url: "https://github.com/Amitabh-K",
+    //   className: "fa fa-github",
+    // },
     {
       name: "skype",
       url: "https://twitter.com/amitabhkumar2",
