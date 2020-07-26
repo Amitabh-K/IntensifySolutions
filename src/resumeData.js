@@ -26,16 +26,15 @@ let resumeData = {
   ],
   aboutme:
     "Intensity is your global partner to meet all non-core business functions and your technology needs so you can focus on achieving organic growth of your core business. We were born with a mission to bring agility in your business fueled with cost effective and customized solutions. Whether you do business online, in person or via mobile we can help you drive savings through our techno-functional solutions.",
-    Whoweare:"We bring expertise of more than decades individually in each service working for our clients, partners globally. Working with big multinational enterprises made us think why not small and medium businesses be able to leverage similar solutions that is affordable to them.  And that is what our mission is, to help small and medium business globally. Our solutions are based on extensive market research and data analytics that fit in to your budget and gives you piece of mind with those ever evolving and time consuming critical activities which is equally important but creates diversion from your core business focus i.e., continuous growth and your clients satisfaction",
     address: "India",
   website: "https://intensifysolutions.com/",
   education: [
     {
-      UniversityName: "Our Services",
-      specialization: "Some specialization",
-      MonthOfPassing: "Aug",
-      YearOfPassing: "2020",
-      Achievements: "Some Achievements",
+      // UniversityName: "Our Services",
+      // specialization: "",
+      // MonthOfPassing: "Aug",
+      // YearOfPassing: "2020",
+      Achievements: "We bring expertise of  decades individually in each service working for our clients, partners globally. Working with big multinational enterprises made us think why not small and medium businesses be able to leverage similar solutions that is affordable to them.  And that is what our mission is, to help small and medium business globally. Our solutions are based on extensive market research and data analytics that fit in to your budget and gives you piece of mind with those ever evolving and time consuming critical activities which is equally important but creates diversion from your core business focus i.e., continuous growth and your clients satisfaction",
     },
     {
       UniversityName: "Some University",
