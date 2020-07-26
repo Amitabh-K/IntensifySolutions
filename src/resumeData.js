@@ -37,41 +37,41 @@ let resumeData = {
       Achievements: "We bring expertise of  decades individually in each service working for our clients, partners globally. Working with big multinational enterprises made us think why not small and medium businesses be able to leverage similar solutions that is affordable to them.  And that is what our mission is, to help small and medium business globally. Our solutions are based on extensive market research and data analytics that fit in to your budget and gives you piece of mind with those ever evolving and time consuming critical activities which is equally important but creates diversion from your core business focus i.e., continuous growth and your clients satisfaction",
     },
     {
-      UniversityName: "Some University",
+      UniversityName: "Some Vision",
       specialization: "Some specialization",
-      MonthOfPassing: "Jan",
-      YearOfPassing: "2018",
+      // MonthOfPassing: "Jan",
+      // YearOfPassing: "2018",
       Achievements: "Some Achievements",
     },
   ],
-  work: [
-    {
-      CompanyName: "Some Company",
-      specialization: "Some specialization",
-      MonthOfLeaving: "Jan",
-      YearOfLeaving: "2018",
-      Achievements: "Some Achievements",
-    },
-    {
-      CompanyName: "Some Company",
-      specialization: "Some specialization",
-      MonthOfLeaving: "Jan",
-      YearOfLeaving: "2018",
-      Achievements: "Some Achievements",
-    },
-  ],
-  skillsDescription: "Your skills here",
-  skills: [
-    {
-      skillname: "HTML5",
-    },
-    {
-      skillname: "CSS",
-    },
-    {
-      skillname: "Reactjs",
-    },
-  ],
+  // work: [
+  //   {
+  //     CompanyName: "Some Company",
+  //     specialization: "Some specialization",
+  //     MonthOfLeaving: "Jan",
+  //     YearOfLeaving: "2018",
+  //     Achievements: "Some Achievements",
+  // //   },
+  //   {
+  //     CompanyName: "Some Company",
+  //     specialization: "Some specialization",
+  //     MonthOfLeaving: "Jan",
+  //     YearOfLeaving: "2018",
+  //     Achievements: "Some Achievements",
+  //   },
+  // ],
+  // skillsDescription: "Your skills here",
+  // skills: [
+  //   {
+  //     skillname: "HTML5",
+  //   },
+  //   {
+  //     skillname: "CSS",
+  //   },
+  //   {
+  //     skillname: "Reactjs",
+  //   },
+  // ],
   portfolio: [
     {
       name: "project1",
