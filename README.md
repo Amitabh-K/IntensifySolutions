@@ -1,3 +1,3 @@
 # IntensifySolutions
 
-![demo](/public/images/ntensify Solutions.png)
+![demo](/public/images/ntensify.png)
